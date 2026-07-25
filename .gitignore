@@ -1,0 +1,18 @@
+/target
+
+# ── nicht öffentlich (Repo ist public) ──
+# interne Notizen & Protokoll-Specs
+.baron-brain.md
+A_baron-phantom-core.md
+B_phantom-ratchet.md
+C_wire-format.md
+TODO.md
+
+# Krypto-Quellcode (unauditiert, Kern-Differentiator) — nicht publizieren
+src/
+tests/
+benches/
+bhp_dart/
+flutter_rust_bridge.yaml
+Cargo.toml
+Cargo.lock
